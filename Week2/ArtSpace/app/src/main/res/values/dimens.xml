@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_corner_radius" />
+    <dimen name="image_width" />
+    <dimen name="image_height" />
+    <dimen name="interior_padding" />
+    <dimen name="padding_vertical" />
+</resources>

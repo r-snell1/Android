@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="Art_1"> Backyard Garden by Ryan Snell, 1999</string>
+    <string name="art_1_description"> Mid summer garden in North Georgia. </string>
+
+    <string name="Art_2"> Sunset in Florida by Ryan Snell, 2014 </string>
+    <string name="art_2_description"> Red sunset in Central Florida </string>
+
+    <string name="Art_3"> Snowy Yard by Ryan Snell, 2000</string>
+    <string name="art_3_description"> Eight inches of snow in North Georgia </string>
+</resources>
